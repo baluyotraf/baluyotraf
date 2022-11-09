@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hello!
 
-<!--
-**baluyotraf/baluyotraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who Am I
 
-Here are some ideas to get you started:
+I'm **Raffaello Baluyot**. I am a software engineer who is also working 
+with machine learning. Most of the time, people refer to people like me as a
+Machine Learning Engineer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Work Areas
+
+I worked in different industries such as automotive, finance, cyber security,
+chat systems, computer vision, and education. Yes! I also taught courses in
+universities.
+
+## Links
+
+*   [Software+ML (Personal Website)][Software+ML]
+*   [LinkedIn][LinkedIn]
+
+
+[Software+ML]: https://www.softwareplus.ml
+[LinkedIn]: https://www.linkedin.com/in/baluyotraf/
