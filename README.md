@@ -1,12 +1,12 @@
-# Welcome
+# Hello!
 
-## Who I Am
+## Who Am I
 
-Hello! I'm **Raffaello Baluyot**. I am a software engineer who is also working 
+I'm **Raffaello Baluyot**. I am a software engineer who is also working 
 with machine learning. Most of the time, people refer to people like me as a
 Machine Learning Engineer.
 
-## Areas 
+## Work Areas
 
 I worked in different industries such as automotive, finance, cyber security,
 chat systems, computer vision, and education. Yes! I also taught courses in
