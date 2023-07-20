@@ -12,13 +12,15 @@ I worked in different industries such as automotive, finance, cyber security,
 chat systems, computer vision, and education. Yes! I also taught courses in
 universities.
 
-## Links
+## Contact Details
+
+Let's have a discussion. Feel free to see some of my work and my profile!
 
 *   [Software+ML (Personal Website)][Software+ML]
 *   [Curriculum Vitae][CV]
 *   [LinkedIn]
 
 
-[Software+ML]: https://www.softwareplus.ml
-[CV]: https://cv.softwareplus.ml
+[Software+ML]: https://softwareplusml.baluyotraf.com/
+[CV]: https://cv.baluyotraf.com/
 [LinkedIn]: https://www.linkedin.com/in/baluyotraf/
