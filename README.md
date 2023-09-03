@@ -14,7 +14,7 @@ universities.
 
 ## Contact Details
 
-Let's have a discussion. Feel free to see some of my work and my profile!
+If you need someone who can build Machine Learning systems, let's have a discussion. Feel free to see some of my work and my profile!
 
 *   [Software+ML (Personal Website)][Software+ML]
 *   [Curriculum Vitae][CV]
